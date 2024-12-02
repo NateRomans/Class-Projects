@@ -1,0 +1,1 @@
+This is what I have so far for the final project in SDEV 140. The gui application I am creating is a hangman game. So far, the game works properly with a start window and a main game window. My next step is to have the application actually draw the hangman as the user makes incorrect guesses.
