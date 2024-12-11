@@ -1,1 +1,3 @@
-This is what I have so far for the final project in SDEV 140. The gui application I am creating is a hangman game. So far, the game works properly with a start window and a main game window. My next step is to have the application actually draw the hangman as the user makes incorrect guesses.
+brief explanation for SDEV 140 final project
+
+Hello, My Final project is done, I would say its a big sucess it does everything i wanted it to do. the biggest challenge that i faced what getting everything on screen to be positioned in the way that i wanted it, I found that part a bit confusing at time but I was fortunatly able to figure it out. Over all everything works there are two windows a start window, and a game window when the player guesses incorecctly it wil draw a part of the hangman figure and warn them of the amount of tries they have left. if the user gets the whole word guessed correctly it will congratualate the player and promt them that they won the game.
